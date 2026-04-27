@@ -7,8 +7,8 @@ import re
 
 # ── Telegram config ──────────────────────────────────────────────────────────
 
-TELEGRAM_BOT_TOKEN = os.environ[“TELEGRAM_BOT_TOKEN_PT”]
-TELEGRAM_CHAT_ID   = os.environ[“TELEGRAM_CHAT_ID_PT”]
+TELEGRAM_BOT_TOKEN = os.environ["TELEGRAM_BOT_TOKEN_PT"]
+TELEGRAM_CHAT_ID   = os.environ["TELEGRAM_CHAT_ID_PT"]
 
 # ── RSS / PubMed feed sources by topic ──────────────────────────────────────
 
